@@ -18,3 +18,4 @@ if __name__ == "__main__":
     # Converts all .note files in the current directory and its subdirectories
     convert_note_to_pdf(os.getcwd())
     print("Conversion completed!")
+    
